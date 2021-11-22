@@ -7,7 +7,7 @@ Just toy tools to build [The GNU C Libray](https://www.gnu.org/software/libc/lib
 Here is an example using version 2.31 for x86_64.
 
 ```
-$ git clone https://github.com/jueve/glibc-build-tool.git
+$ git clone https://github.com/jueve/glibc-build-tools.git
 $ cd glbc-build-tool
 $ GILBC_VERSION=2.31 CPU_ARCH=x86_64 ./init.sh
 ```
