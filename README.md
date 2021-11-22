@@ -8,7 +8,7 @@ Here is an example using version 2.31 for x86_64.
 
 ```
 $ git clone https://github.com/jueve/glibc-build-tools.git
-$ cd glbc-build-tool
+$ cd glibc-build-tools
 $ GLIBC_VERSION=2.31 CPU_ARCH=x86_64 ./init.sh
 ```
 
