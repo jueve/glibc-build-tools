@@ -9,7 +9,7 @@ Here is an example using version 2.31 for x86_64.
 ```
 $ git clone https://github.com/jueve/glibc-build-tools.git
 $ cd glbc-build-tool
-$ GILBC_VERSION=2.31 CPU_ARCH=x86_64 ./init.sh
+$ GLIBC_VERSION=2.31 CPU_ARCH=x86_64 ./init.sh
 ```
 
 After putting logs, a woking directory is generated.
